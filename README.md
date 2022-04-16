@@ -1,4 +1,4 @@
-<img src="https://img-baofun.zhhainiao.com/pcwallpaper_ugc/scene/8551a2e4d2163f5ee84f891c2cc50830_preview.jpg?x-oss-process=image/resize,m_lfit,h_228,w_406"/>
+<img src="https://images.unsplash.com/photo-1586484571980-d179d06d51ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"/>
  
 ### Hi there 👋, Welcome to my page! <br>
 
@@ -8,13 +8,11 @@ I'm Yizhu Yang, or you can also call me Peggy. I'm learning developing.
  
 🌱 *Currently Learning*: Git <br>
 
-📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](yizhu.yang@outlook.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [WeChat](search:17520269909)
+📫 Reach me by email: [Email](yizhu.yang@outlook.com)<br>
  
 ⚡ Fun facts:<br>
-- MY MBTI:ENFJ<br>
-- MY CONSTELLATION:Libra <br>
+- My MBTI:ENFJ<br>
+- My Constellation:Libra <br>
 
 😄 Photo: This is how I look like in MeiTu & B612 <br> 
  <img src="https://wx1.sinaimg.cn/mw2000/a60ae7dcly1gffc668btpj216m1kuwrp.jpg"/>
