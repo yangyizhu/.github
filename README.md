@@ -17,4 +17,4 @@ I'm Yizhu Yang, or you can also call me Peggy. I'm learning developing.
 - MY CONSTELLATION:Libra <br>
 
 😄 Photo: This is how I look like in MeiTu & B612 <br> 
- <img src="<img src="https://img-baofun.zhhainiao.com/pcwallpaper_ugc/scene/8551a2e4d2163f5ee84f891c2cc50830_preview.jpg?x-oss-process=image/resize,m_lfit,h_228,w_406"/>"/>
+ <img src="https://wx1.sinaimg.cn/mw2000/a60ae7dcly1gffc668btpj216m1kuwrp.jpg"/>
